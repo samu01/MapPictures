@@ -1,8 +1,7 @@
-# poor-sharptimermappics
-CS2 movement map pictures. Used for (poor-)sharptimer discord webhook.
-> [!IMPORTANT]
-> I am not the owner / maker / **put anything you want** of those pictures.
+# SharpTimer Map Pictures
+CS2 movement map pictures for SharpTimer Discord webhook.<br><br>
+If a map is missing, feel free to send a pull request!
 
-**Pictures were taken from:**
+**Pictures taken from:**
 - [Sayt123 SurfMapPics](https://github.com/Sayt123/SurfMapPics)
 - [KZGlobalTeam Map-Images](https://github.com/KZGlobalTeam/map-images)
